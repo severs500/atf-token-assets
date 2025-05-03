@@ -1,7 +1,8 @@
 {
   "name": "AI Trading Forex",
   "description": "Official ATF token for algorithmic forex trading.",
-  "image": "https://YourUsername.github.io/atf-token-assets/logo.png",
-  "external_url": "https://github.com/YourUsername/severs500",
+  "image": "https://severs500.github.io/atf-token-assets/logo.png",
+  "external_url": "https://github.com/severs500/atf-token-assets",
   "decimals": 18
 }
+
